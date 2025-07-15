@@ -16,7 +16,7 @@ import jakarta.annotation.PostConstruct;
 @Slf4j
 public class PromosKafkaConsumerService {
 
-
+    /* 
     private final ObjectMapper objectMapper = new ObjectMapper();
 
     @PostConstruct
@@ -51,4 +51,5 @@ public class PromosKafkaConsumerService {
             acknowledgment.acknowledge();
         }
     }
+        */
 }
